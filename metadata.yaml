@@ -1,0 +1,46 @@
+_repo: Mankind-in-the-Making_7058
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "Mankind in the Making (1903) is H.G. Wells's sequel to Anticipations\
+  \ (1901). Mankind in the Making analyzes the \"process\" of \"man's making,\" i.e.\
+  \ \"the great complex of circumstances which mould the vague possibilities of the\
+  \ average child into the reality of the citizen of the modern state.\" Taking an\
+  \ aggressive tone in criticizing many aspects of contemporary institutions, Wells\
+  \ proposed a doctrine he called \"New Republicanism,\" which \"tests all things\
+  \ by their effect upon the evolution of man.\"\nThe volume consists of eleven \"\
+  papers\" that were first published in the British Fortnightly Review from September\
+  \ 1902 to September 1903 and in the American Cosmopolitan, and an appendix. It was\
+  \ reprinted by Chapman and Hall in 1906 in a cheaper edition, and again in 1914,\
+  \ on the eve of World War I.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7058'
+  wikidata: Q16386886
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HN'
+- !lcsh 'Social problems'
+- !lcsh 'Social sciences'
+- GITenberg
+tableOfContents: 'The New Republic -- The problem of the birth supply -- Certain wholesale
+  aspects of man-making -- The beginnings of the mind and language -- The man-making
+  forces of the modern state -- Schooling -- Political and social influences -- The
+  cultivation of the imagination -- The organization of the higher education -- Thought
+  in the modern state -- The man''s own share -- Appendix: Paper on administrative
+  areas read before the Fabian society.'
+title: Mankind in the Making
+url: http://www.gutenberg.org/ebooks/7058
+wikipedia:
+- https://en.wikipedia.org/wiki/Mankind_in_the_Making

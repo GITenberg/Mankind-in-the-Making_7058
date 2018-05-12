@@ -1,5 +1,8 @@
 _repo: Mankind-in-the-Making_7058
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -20,6 +23,8 @@ description: "Mankind in the Making (1903) is H.G. Wells's sequel to Anticipatio
   \ 1902 to September 1903 and in the American Cosmopolitan, and an appendix. It was\
   \ reprinted by Chapman and Hall in 1906 in a cheaper edition, and again in 1914,\
   \ on the eve of World War I.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7058#Mankind-in-the-Making
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
